@@ -1,1 +1,1 @@
-[Download(https://github.com/re-mc/RealCraft-/releases)]
+Download[https://github.com/re-mc/RealCraft-/releases]
